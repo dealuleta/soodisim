@@ -1,0 +1,13 @@
+package com.soodisim.demosoodisim;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoSoodisimApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DemoSoodisimApplication.class, args);
+    }
+
+}
